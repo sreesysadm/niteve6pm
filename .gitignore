@@ -1,3 +1,5 @@
 *.net
 
 !madhavi.net
+
+[pvaeiou]*.php
